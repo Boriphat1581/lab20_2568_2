@@ -50,7 +50,7 @@ public:
             if (rand() % 2 == 0) {
                 dmg = 0; 
             } else {
-                dmg *= 2; ขโจทย์
+                dmg *= 2; 
             }
         } else {
             if (guard_on) dmg /= 3;
